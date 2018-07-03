@@ -35,7 +35,7 @@ public class Square {
         rect.bottom=Math.round(box[3]);
         return  rect;
     }
-    //面积
+
     public  int area(){
         return width()*height();
     }
